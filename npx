@@ -1,0 +1,4 @@
+Using locally installed version of TestCafe.
+ERROR Source files do not contain valid 'fixture' and 'test' declarations.
+
+Type "testcafe -h" for help.
